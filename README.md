@@ -4,3 +4,5 @@ This example shows how to scrab data from 'http://www.anterior.banxico.org.mx/va
 
 1) Edit app.py and and demo_final.py add rds login detail.
 2) pip install requirements.txt
+
+Use this example https://github.com/univercity2012/ag-grid-demo.git to visualize the Mexican Debt data with ag-grid.
